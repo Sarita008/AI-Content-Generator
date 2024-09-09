@@ -37,10 +37,10 @@ export default function Home() {
             </div>
             <div className="text-center">
               <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
-                GenText AI Content Generator
+                GenWrite AI Content Generator
               </h1>
               <p className="mt-6 text-lg leading-8 text-gray-300">
-                GenText is a content generator that uses AI to generate content
+                GenWrite is a content generator that uses AI to generate content
                 for you. It is a tool that helps you generate content for your
                 blog, website, or social media.
               </p>
